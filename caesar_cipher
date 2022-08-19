@@ -1,7 +1,7 @@
 import string
 from time import sleep
 
-alphabet = string.ascii_lowercase # "abcdefghijklmnopqrstuvwxyz"
+alphabet = string.ascii_lowercase # "abcde.......opqrstuvwxyz"
 
 def encrypt():
     
